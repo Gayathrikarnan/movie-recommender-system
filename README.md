@@ -1,4 +1,4 @@
-# movie-recommender-system
+# Movie-recommender-system
 An AI-powered Movie Recommendation System using NLP &amp; Cosine Similarity, deployed as an interactive Streamlit web app.
 
 # Overview
@@ -27,12 +27,6 @@ The system follows a Content-Based Filtering approach:
 
 Data preprocessing and feature engineering
 
-# Dataset
-
-The dataset is not included in this repository due to size limitations.
-You can download it from:
-[https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset]
-
 Text vectorization using CountVectorizer
 
 Similarity computation using Cosine Similarity
@@ -50,3 +44,10 @@ Machine Learning: Scikit-learn
 Web Framework: Streamlit
 
 Dataset: TMDB Movies Metadata
+
+# Dataset
+
+The dataset is not included in this repository due to size limitations.
+You can download it from:
+[https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset]
+
