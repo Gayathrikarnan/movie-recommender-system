@@ -27,6 +27,12 @@ The system follows a Content-Based Filtering approach:
 
 Data preprocessing and feature engineering
 
+# Dataset
+
+The dataset is not included in this repository due to size limitations.
+You can download it from:
+[https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset]
+
 Text vectorization using CountVectorizer
 
 Similarity computation using Cosine Similarity
